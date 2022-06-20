@@ -1,0 +1,39 @@
+*{
+    margin: auto;
+    width: auto;
+    background: radial-gradient(circle at center,  #cf55fbee, #4d413e);
+
+}
+
+.container{
+
+    margin-left:  520px;
+    margin-top: 230px;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+
+.title{
+    font-size: 59px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white;
+    
+}
+
+.numInput{
+    color: aliceblue;
+    font-size: 30px;
+}
+
+
+#inputBtn{
+    font-size: 27px;
+    color: aliceblue;
+}
+
+#count{
+    color: aliceblue;
+    font-size: 40px;
+}
